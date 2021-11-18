@@ -1,4 +1,4 @@
-package com.tom.service;
+package com.ranjan.service;
 
 public class MathService {
     public int multiply(int firstNumber, int secondNumber) {
